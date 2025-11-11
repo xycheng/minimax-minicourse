@@ -1,0 +1,2 @@
+# minimax-minicourse
+course notes
